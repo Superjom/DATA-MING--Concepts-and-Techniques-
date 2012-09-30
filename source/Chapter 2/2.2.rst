@@ -1,0 +1,15 @@
+2.2 Basic Statistical Descriptions of Data
+**********************************************
+2.2.1 Measuring the Central Tendency: Mean, Median, and Mode
+-----------------------------------------------------------------
+*to offset the effect caused by a small number of extreme values, we can instead use the* **trimmed mean**.
+
+trimmed mean::
+    
+    the mean obtained after chopping off values at the high and low extremes.
+    For example, we can sort the values observed for salary and remove the top
+    and bottom 2% before computing the mean.
+    
+    
+
+

@@ -1,0 +1,48 @@
+2.1 Data Objects and Attribute Types
+******************************************
+
+2.1.1 Waht Is an Attribute?
+---------------------------------
+
+The **type** of an attribute is determined by the set of possible values--nominal, binary, ordinal, or numeric--the attribute can have.
+
+2.1.2 Nominal Attribute
+---------------------------------
+The values of a nominal attribute are **symbols** or **names** of things. Each value represents some kind of **category**, code, or state, and so nominal attributes are also referred to as categorical.
+
+It is also possible to represent such symbols or "names" with **numbers**.
+
+Because nominal attribute values do not have any meaningful order about them and are not quantitative, it makes no sense to find the mean (average) value or median (middle) value for such an attribute, given a set of objects.
+
+2.1.3 Binary Attributes
+---------------------------------
+A **binary attribute** is a nominal attribute with only two categories or states: 0 or 1
+
+2.1.4 Ordinal Attributes
+---------------------------------
+An **ordinal attribute** is an attribute with possible values that have a meaningful order r ranking among them, but the magnitude between successive values is not known.
+
+ordinal attributes are often used in surveys for ratings.
+
+2.1.5 Numeric Attributes
+---------------------------------
+A **numeric attribute** is quantitative.
+
+Interval-Scaled Attributes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In addition to providing a ranking of values, such attributes allow us to compare and quantify the difference between values.
+
+Because interval-scaled attributes are numeric, we can compute their mean value, in addition to the median and mode measures of central tendency.
+
+Ratio-Scaled Attributes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A **ratio-scaled attributes** is a numeric attribute with an inherent zero-point. That is, if a measurement is ratio-scaled, we can speak of a value as being a multiple (or ratio) of another value.
+
+2.1.6 Discrete versus Continuous Attributes
+------------------------------------------------
+
+
+
+
+
+

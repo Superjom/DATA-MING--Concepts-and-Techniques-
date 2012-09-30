@@ -1,0 +1,57 @@
+1.7 Major Inssues in Data Mining
+******************************************
+researchers have been vigorously developing new methodologies . 
+
+this involves:
+
+* the investigation of new kinds of knowledge
+* mining in multidimensional space
+* integrating methods from other disciplines
+* consideraton of semantic ties among data objects
+
+1.7.1 Mining Methodology
+--------------------------
+
+Mining various and new kinds of knowledge
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Mining knowledge in multidimensional space
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In many cases, data can be aggregated or viewed as a multidimensional data cube.
+
+Mining knowledge in cube space can substantially enhance the power and flexibility of data mining.
+
+Data mining--an interdisciplinary effort
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The power of data mining can be substantially enhanced by integrating new methods from multiple disciplines.
+
+For example, to mine data with natural language text, it makes sense to fuse data mining methods with methods of information retrieval and natural language processing.
+
+Handling uncertainty, noise, or incompleteness of data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Errors and noise may confuse the data mining process, leading to the derivation of erroneous patterns.
+
+1.7.2 User Interaction
+-----------------------
+
+
+1.7.3 Efficiency and Scalability
+------------------------------------
+
+Efficiency and scalability of data mining algorithms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Data mining algorithms must be efficient and scalable in order to effectively extract information from huge amounts of data in many data repositories or in dynamic data streams
+
+Parallel, distributed, and incremental mining algorithms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+incremental data mining::
+    
+    incorporates new data updates without having to mine the entire data "from scratch"
+    such methods perform knowledge modification incrementally to amend and strengthen what was previously discovered.
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+1.5 Which Technologies Are Used?
+******************************************
+The interdisciplinary nature of data mining research and development contrbutes significantly to the success of data mining research and its extensive applications.
+
+1.5.1 Statistics
+------------------
+Statistical Model::
+    
+    a set of mathematical functions that describe the behavior of the objects 
+    in a target class in terms of random variables and their associated 
+    probability distributions.
+
+Statistical methods can be used to 
+* summarize or describe a collection of data.
+* verify data mining results
+
+A serious chanllenge is to scale up a statistical method over a large set of data. Many statistical methods have high complexity in computation.
+
+1.5.2 Machine Learning
+-----------------------
+machine learning investigates how computers can learn (or improve their performance) on data.
+
+Supervised learning
+~~~~~~~~~~~~~~~~~~~~~
+**Supervised learning** is basically a synonym for **classification**.
+
+The supervision in the learning comes from the labeled examples in the training data set.
+
+For example: in the postal code recognition problem, a set of handwritten postal code images and their corresponding machine-readable translations are used as the training examples, which supervise the learning of the classification model.
+
+Unsupervised learning
+~~~~~~~~~~~~~~~~~~~~~~
+**Unsupervised learning** is essentially a synonym for **clustering**.
+
+The learning process is unsupervised since the input examples are not class labeled. 
+
+Typically, we may use clustering to discover classes within the data.
+
+Semi-supervised learning
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Semi-supervised learning is a class of machine learning that make use of both labeled and unlabeled examples when learning a model.
+
+In one apprach, labeled examples are used to learn class models and unlabeled examples are used to refine the boundaries between classes.
+
+Active learning
+~~~~~~~~~~~~~~~~~~~
+Active learning is a machine learning approach that lets users play an active role in the learning process
+
+
+
+
+
+

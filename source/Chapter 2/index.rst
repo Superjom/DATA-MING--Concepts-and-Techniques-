@@ -28,4 +28,5 @@ Contents:
    :maxdepth: 2
 
    2.1.rst
+   2.2.rst
 
